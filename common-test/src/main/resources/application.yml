@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: common-test
+logging:
+  file:
+    name: ${spring.application.name}
+  level:
+    com:
+      wz: debug
