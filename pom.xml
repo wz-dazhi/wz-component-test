@@ -13,6 +13,7 @@
         <module>encrypt-test</module>
         <module>excel-test</module>
         <module>common-test</module>
+        <module>shiro-test</module>
     </modules>
 
     <properties>
